@@ -9,7 +9,7 @@ dynamicArray w;<br>
 w.append(s);<br>
 w.append(p);<br>
 
-// Reading values back safely
+// Reading values back safely<br>
 std::cout << *static_cast<int*>(w.get(0)) << "|" 
           << *static_cast<std::string*>(w.get(1)) << std::endl;
 
