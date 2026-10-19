@@ -13,6 +13,6 @@ w.append(p);
 // Reading values back safely
 std::cout << *static_cast<int*>(w.get(0)) << "|" 
           << *static_cast<std::string*>(w.get(1)) << std::endl;
-```
+
 <h4>output:</h4>
 <h5> 4|dsdddddsd</h5>
