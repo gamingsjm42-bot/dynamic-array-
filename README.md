@@ -17,4 +17,4 @@ std::cout << *static_cast<int*>(w.get(0)) << "|"
 <h5> 4|dsdddddsd</h5>
 <br>
 <h4>how to setup it:</h4>
-<h3>you just to copie that dynamicArray.cpp in main and setup it</h3>
+<h5>you just to copy that dynamicArray.cpp in main and #include it:</h5>
