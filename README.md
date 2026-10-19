@@ -1,2 +1,2 @@
 # dynamic-array-
-that array have difference types of pointers values  on it
+That Array get a deffirents types of values like
