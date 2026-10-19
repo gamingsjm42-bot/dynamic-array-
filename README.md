@@ -2,7 +2,7 @@
 <h5>That Array get a deffirents types of values like:</h5>
 <h3>example:</h3>
 <h4>input: </h4>
-```cpp
+cpp
 int* s = new int(4);
 std::string* p = new std::string("dsdddddsd");
 
